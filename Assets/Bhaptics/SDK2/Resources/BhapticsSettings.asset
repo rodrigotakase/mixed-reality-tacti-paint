@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b3b9d9689fae93418e33472f9eccaa7, type: 3}
+  m_Name: BhapticsSettings
+  m_EditorClassIdentifier: Bhaptics.SDK2::Bhaptics.SDK2.BhapticsSettings
+  appName: FingerPainting
+  appId: 6a55bd05130577e162f2bb1a
+  apiKey: BWZmBdB50nwTjoCDSOM1
+  lastDeployVersion: 1
+  eventData:
+  - durationMillis: 20
+    key: click
+    description: click
+    isAudio: 1
+    updateTime: 1784003968968
+    positions: []
+  defaultDeploy: '{"status":true,"message":{"id":"6a55bd87130577e162f2bb62","createTime":1784003975780,"name":"FingerPainting","creator":"66XibDRskLQ6yRcmLxHNlyzyScO2","workspaceId":"6a55bd05130577e162f2bb1a","version":1,"disableValidation":false,"hapticMappings":[{"id":"6a55bd87130577e162f2bb61","enable":true,"intensity":100,"key":"click","category":"Default","description":"click","updateTime":1784003968968,"tactFilePatterns":[],"audioFilePatterns":[{"patternId":"69b8b8fca9c66c479154d88f","snapshotId":"69b9175269a77de08b4c2392","position":"Vest","clip":{"id":"","name":"Grab
+    (Right)","version":2,"duration":4,"patterns":{"ForearmL":["AAAAAAAAAAAAAAAAAAAAAAAAAP8="],"ForearmR":["AB8AAAAAAAAAAAAAAAAAAAAAAP8="],"VestFront":["AAAADgAAAAAAAAAAAAAAAAAAAP8="],"VestBack":["AAAAAAAAAAAAAAAAAAAAAAAAAP8="],"GloveL":["AAAAAAAAAAAAAAAAAAAAAAAAAAA="],"GloveR":["AAAAAAAAAAAAAAAAAAAAAAAAAAA="]}}},{"patternId":"69b8b8fca9c66c479154d88e","snapshotId":"69b9175269a77de08b4c2393","position":"Vest","clip":{"id":"","name":"Grab
+    (Left)","version":2,"duration":4,"patterns":{"ForearmL":["AB8AAAAAAAAAAAAAAAAAAAAAAP8="],"ForearmR":["AAAAAAAAAAAAAAAAAAAAAAAAAP8="],"VestFront":["DgAAAAAAAAAAAAAAAAAAAAAAAP8="],"VestBack":["AAAAAAAAAAAAAAAAAAAAAAAAAP8="],"GloveL":["AAAAAAAAAAAAAAAAAAAAAAAAAAA="],"GloveR":["AAAAAAAAAAAAAAAAAAAAAAAAAAA="]}}}],"eventTime":20,"actualPositions":["ForearmL","ForearmR","VestFront","VestBack","GloveL","GloveR"]}],"categoryOptions":["Default"],"description":""},"errorMessage":null,"timestamp":1784003978630,"code":200}'

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/FingerPaint.unity
+    guid: 9aaa03be3f6ff4b3e940ac006c9deaa6
+  - enabled: 1
+    path: Assets/FingerPaintMesh.unity
+    guid: 2e94e5f053aac45598f7245e6f281405
+  - enabled: 0
+    path: Assets/MRUKSamples/DestructibleMesh/DestructibleMesh.unity
+    guid: 592114de817c8e1478a2e5b8b6843b2f
+  - enabled: 0
+    path: Assets/AutoHand/Examples/Scenes/OpenXR/XRHands.unity
+    guid: aeecf2324ad45cd4781c5da04580100a
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: "Assets/Samples/Meta XR Interaction \u200BSDK/203.0.0/Example Scenes/HandGrabExamples.unity"
+    guid: 39ae0e546b9edc0408d3b11c6a7c2814
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 76da0e2b75e904ef5b138321e22d5e11, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 5d6734b57f5274ffc86502ae88d25314, type: 2}
+  m_UseUCBPForAssetBundles: 0
