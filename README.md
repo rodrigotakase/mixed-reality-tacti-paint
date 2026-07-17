@@ -108,6 +108,13 @@ This project was developed by **Team TBD** at the **IVE Winter School 2026: Hapt
 in XR**, held 13–17 July 2026 at the Mawson Lakes Campus of Adelaide University,
 Adelaide, Australia.
 
+**Team TBD:**
+- Mohamed Fareed
+- Awnili Shabnam
+- Forhad Hossain
+- Rodrigo Dias Takase
+- Rob Teather
+
 The Winter School is a free five-day intensive short course offered by the
 [Australian Research Centre for Interactive and Virtual Environments (IVE)](https://ive.unisa.edu.au/),
 exploring haptics and its applications in XR through expert talks, demonstrations
